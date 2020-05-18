@@ -1,16 +1,16 @@
 # macrix
 Implement a desktop application (either using WinForms or WPF) which displays a table of people containing the following information:
 
-• First Name,
-• Last Name
-• Street Name
-• House Number
-• Apartment Number (optional)
-• Postal Code
-• Town
-• Phone Number
-• Date of Birth
-• Age (read-only)
+- First Name,
+- Last Name
+- Street Name
+- House Number
+- Apartment Number (optional)
+- Postal Code
+- Town
+- Phone Number
+- Date of Birth
+- Age (read-only)
 
 The application should allow a user to edit the data inline, add new users and delete existing ones. The data should be stored in the XML
 file. The file should be located in the current user profile. Below the table there should be two buttons: "Save" and "Cancel".
